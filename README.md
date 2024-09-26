@@ -1,4 +1,6 @@
-<h1 align="left">Hi I'm Renan Victor 👾</h1>
+# Welcome to my profile
+
+<h3 align="left">Hi I'm Renan Victor 👾</h3>
 
 ###
 
