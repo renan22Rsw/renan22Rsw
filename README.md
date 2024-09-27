@@ -1,8 +1,8 @@
-<h1 align="left">Hi I'm Renan Victor 👾</h1>
+# Welcome to my profile
 
-###
+## Hi I'm Renan Victor 
 
-<h3 align="left">I am currently starting my journey to become a programmer.</h3>
+### I am currently starting my journey to become a programmer.
 
 ###
 
