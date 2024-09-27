@@ -1,10 +1,8 @@
-# Welcome to my profile
-
-<h3 align="left">Hi I'm Renan Victor 👾</h3>
+<h1 align="left">Hi I'm Renan Victor 👾</h1>
 
 ###
 
-<h4 align="left">I am currently starting my journey to become a programmer.</h4>
+<h3 align="left">I am currently starting my journey to become a programmer.</h3>
 
 ###
 
@@ -17,7 +15,11 @@
 
 ###
 
-<div align="center">
+<h4 align="left">Skills:</h4>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -33,6 +35,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h4 align="left">Currently Learning:</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
 ###
