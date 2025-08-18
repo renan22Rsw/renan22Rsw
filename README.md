@@ -36,7 +36,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,jest" />
   <img src="https://avatars.githubusercontent.com/u/24939410?s=160&v=4" width="50px"/>
  </div>
 
