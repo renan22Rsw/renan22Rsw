@@ -8,11 +8,8 @@ Over the past few years, I've been studying modern technologies such as JavaScri
 
 Currently, I'm looking for opportunities to gain professional experience, contribute to real-world projects, and continue growing as a developer.
 
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/renan22Rsw/renan22Rsw/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/renan22Rsw/renan22Rsw/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=renan22Rsw&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=renan22Rsw&layout=compact&theme=radical)
 
 ###
 
