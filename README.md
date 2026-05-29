@@ -1,54 +1,41 @@
-# Welcome to my profile
+# 👋 Hi There
 
 ## Hi I'm Renan Victor 
 
-### I am currently starting my journey to become a full-stack programmer.
+ I'm a self-taught developer from Brazil focused on fullstack development.
 
-###
+Over the past few years, I've been studying modern technologies such as JavaScript, TypeScript, React, Next.js, Node.js, Express, Fastify, and NestJS while building personal projects to improve my skills.
 
-<br clear="both">
+Currently, I'm looking for opportunities to gain professional experience, contribute to real-world projects, and continue growing as a developer.
+
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=renan22rsw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renan22rsw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/renan22Rsw/renan22Rsw/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/renan22Rsw/renan22Rsw/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-###
+## 💻 Tech Stack
 
-###
-
-<h4 align="left">Front-end</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
-
-          
+<div>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/next.js" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/express"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/fastify"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/prisma"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/jest"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postman"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/docker"/>
 </div>
-
-###
-
-<h4 align="left">Back-end</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,jest" />
-  <img src="https://avatars.githubusercontent.com/u/24939410?s=160&v=4" width="50px"/>
- </div>
-
-###
-
-<h4 align="left">Tools</h4>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,notion,github,postman" />
-
- </div>
-
 
 
 
